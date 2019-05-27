@@ -1,10 +1,8 @@
-import React from "react";
-import "./App.css";
+import React from 'react';
+import { Button } from './components/atoms';
 
-function App() {
-  return (
-    <h1>Teste</h1>
-  );
-}
+const App = () => (
+  <Button> Teste </Button>
+);
 
 export default App;
