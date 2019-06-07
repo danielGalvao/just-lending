@@ -1,8 +1,8 @@
 import React from 'react';
-import { Button } from './components/atoms';
+import { ButtonPrimary } from './components/atoms';
 
 const App = () => (
-  <Button> Teste </Button>
+  <ButtonPrimary>Teste</ButtonPrimary>
 );
 
 export default App;
