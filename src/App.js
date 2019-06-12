@@ -1,8 +1,8 @@
 import React from 'react';
-import { ButtonPrimary } from './components/atoms';
+import { Routers } from './Router';
 
 const App = () => (
-  <ButtonPrimary>Teste</ButtonPrimary>
+  <Routers />
 );
 
 export default App;
